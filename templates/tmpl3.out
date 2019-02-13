@@ -1,0 +1,56 @@
+
+Template 3a with METHOD =   2 and B =   9.8
+
+
+The integration reached                        6.28E+02
+The cost of the integration in calls to F was     29366
+The number of calls to F per step is                  7
+The fraction of failed steps was                   0.12
+The number of accepted steps was                   3726
+
+*******************************************************************************
+
+Template 3a with METHOD =   2 and B =  11.0
+
+
+The integration reached                        6.28E+02
+The cost of the integration in calls to F was     31161
+The number of calls to F per step is                  7
+The fraction of failed steps was                   0.15
+The number of accepted steps was                   3854
+
+*******************************************************************************
+
+Template 3b with METHOD =   3 and B =  11.0
+
+Global error estimation broke down. 
+
+
+The tolerance was  1.00E-07
+The worst global error observed was  6.77E-02.  (It occurred at  1.21E+02.)
+The RMS errors in the individual components were:
+                                                  2.92E-03
+                                                  8.09E-04
+
+The integration reached                        1.21E+02
+The cost of the integration in calls to F was     34348
+The number of calls to F per step is                 13
+The fraction of failed steps was                   0.16
+The number of accepted steps was                    832
+
+*******************************************************************************
+
+Template 3b  with METHOD =   3 and B =   9.8
+
+
+The tolerance was  1.00E-07
+The worst global error observed was  1.13E-04.  (It occurred at  8.48E+01.)
+The RMS errors in the individual components were:
+                                                  3.37E-06
+                                                  5.08E-06
+
+The integration reached                        6.28E+02
+The cost of the integration in calls to F was    169555
+The number of calls to F per step is                 13
+The fraction of failed steps was                   0.17
+The number of accepted steps was                   4090

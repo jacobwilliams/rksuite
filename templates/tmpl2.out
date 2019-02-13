@@ -1,0 +1,108 @@
+
+Template 2a with METHOD =          3
+
+            YMAX(L) 
+
+            1.90E+00
+            4.36E-01
+            2.29E+00
+            4.36E+00
+
+The integration reached                        2.00E+01
+The cost of the integration in calls to F was      4631
+The number of calls to F per step is                 13
+The fraction of failed steps was                   0.02
+The number of accepted steps was                    344
+
+At t = 20, the error is 1.22E-09
+The tolerance is        1.00E-10
+
+*******************************************************************************
+
+Template 2a with METHOD =          2
+
+
+**
+** Approximately   5000 function evaluations have been                         
+** used to compute the solution since the integration                          
+** started or since this message was last printed.                             
+**
+** Warning from routine CT     with flag set  3.
+** You can continue integrating this problem.
+**
+            YMAX(L) 
+
+            1.90E+00
+            4.36E-01
+            2.29E+00
+            4.36E+00
+
+The integration reached                        2.00E+01
+The cost of the integration in calls to F was      8091
+The number of calls to F per step is                  7
+The fraction of failed steps was                   0.00
+The number of accepted steps was                   1146
+
+At t = 20, the error is 9.22E-10
+The tolerance is        1.00E-10
+
+*******************************************************************************
+
+Template 2b with METHOD =          3
+
+            YMAX(L) 
+
+            1.90E+00
+            4.36E-01
+            2.29E+00
+            4.36E+00
+
+The integration reached                        2.00E+01
+The cost of the integration in calls to F was     13575
+The number of calls to F per step is                 13
+The fraction of failed steps was                   0.02
+The number of accepted steps was                    344
+
+At t = 20, the error is 1.22E-09
+The tolerance is        1.00E-10
+The worst global error observed was  6.28E-07.  (It occurred at  1.89E+01.)
+The RMS errors in the individual components were:
+                                                  3.13E-08
+                                                  6.00E-08
+                                                  5.94E-08
+                                                  6.14E-09
+
+*******************************************************************************
+
+Template 2b with METHOD =          2
+
+
+**
+** Approximately   5000 function evaluations have been                         
+** used to compute the solution since the integration                          
+** started or since this message was last printed.                             
+**
+** Warning from routine CT     with flag set  3.
+** You can continue integrating this problem.
+**
+            YMAX(L) 
+
+            1.90E+00
+            4.36E-01
+            2.29E+00
+            4.36E+00
+
+The integration reached                        2.00E+01
+The cost of the integration in calls to F was     24135
+The number of calls to F per step is                  7
+The fraction of failed steps was                   0.00
+The number of accepted steps was                   1146
+
+At t = 20, the error is 9.22E-10
+The tolerance is        1.00E-10
+The worst global error observed was  2.30E-06.  (It occurred at  1.88E+01.)
+The RMS errors in the individual components were:
+                                                  5.67E-08
+                                                  1.03E-07
+                                                  1.03E-07
+                                                  5.46E-09
